@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="GraphQL" Version="7.3.0" />
+    <PackageReference Include="GraphQL.SystemTextJson" Version="7.3.0" />
+  </ItemGroup>
+
 </Project>
